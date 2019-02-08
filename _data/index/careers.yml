@@ -1,0 +1,68 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Masters of Science in Computer Science
+  desc:
+    detail: >
+      Concentration - Advanced Systems.
+
+      Related Coursework -
+      1. Advanced Topics In Programming Languages
+      2. Advanced Analysis Of Algorithms
+      3. Object Oriented Analysis And Design
+      4. Advanced Software Engineering
+      5. Artificial Intelligence
+      6. Topics in Distributed Computing
+      7. Software Development With Frameworks
+      8. Fault Tolerant Computing Systems
+      9. Deep Learning
+      10. Mobile Application Development
+
+  date:
+    detail: Aug 2017 - May 2019, California, United States of America
+  job:
+    detail: Graduate Student at California State University Long Beach
+  icon: fa-plus-square
+
+- name:
+    detail: Vinson Technologies LLP
+  desc:
+    detail: >
+1. Wrote Shell Scripts and filters to sniff the network with wireshark and extract information from the desired devices.
+2. Wrote Shell scripts for OpenWRT routers to collect and transfer data through the network.
+3. Wrote cron jobs on the server to process the received data using Php scripts and store the data in the database.
+4. Wrote triggers in SQL to process the data to find the locations of the corresponding devices with respect to the sensors and track them at regular intervals.
+5. Configured a wireless mesh network and tested at various locations.
+6. Collaborated with local chapters of PMI and ISACA to implement this system to get foot count at their events. 
+  date:
+    detail: July 2016 - February 2017, Pune, India
+  job:
+    detail: Associate Engineer - Automation
+  icon: fa-plus-square
+
+- name:
+    detail: Bachelors of Engineering in Computer Engineering
+  desc:
+    detail: >
+      Related Coursework (A few is listed below) -
+      1. Data Structures
+      2. Algorithms
+      3. Theory of Computation
+      4. File Structure and Data Processing
+      5. System Software
+      6. Operating Systems
+      7. Object Oriented Programming(C++)
+      8. Web Technologies
+      9. Database Management Systems
+      10.Software Engineering and Project Management
+      11.Computer Networks
+      12.Soft Computing
+      13.Web Communications and Mobile Computing
+      14.Multimedia Systems. 
+
+  date:
+    detail: July 2012- August 2016, Maharashtra, India
+  job:
+    detail: Undergraduate Student at St. Vincent Pallotti College of Engineering and Technology, RTM Nagpur University
+  icon: fa-plus-square

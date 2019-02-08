@@ -1,0 +1,46 @@
+- name: E-Learning Platform
+  i18n: jalpc
+  gh_user: jarrekk
+  repo: E-Learning-Platform
+  img: /static/assets/img/landing/jekyll.png
+  desc: Using Django built an E-learning platform, where students can register and access the course content. Implemented caching using Memcached to reduce the response
+time on the website. 
+
+- name: Social Networking Website
+  i18n: cpython
+  gh_user: python
+  repo: Social-Networking-Website
+  img: /static/assets/img/landing/python.png
+  desc: Using Django developed a Social Networking website, where people can share their content. People can be followed and get followed. Used Redis to store ranks. 
+
+- name: Shopping Cart Application
+  i18n: cpython
+  gh_user: python
+  repo: Shopping-Cart-MVC
+  img: /static/assets/img/landing/python.png
+  desc: Using MVC model in C# developed a complex online shopping web application. It catalogued all the available products, which could be put into cart and bought by the
+user
+
+- name: Polyphonic Music Generator
+  i18n: cpython
+  gh_user: python
+  repo: Music-Generator
+  img: /static/assets/img/landing/python.png
+  desc: Using LSTM developed a system using Tensorflow library of Python that could generate new polyphonic musical compositions. Trained the model using Nottingham
+Music Database. The system can output musical notations in .abc format once starting notes are given. 
+
+- name: Gesture Recognition System
+  i18n: cpython
+  gh_user: python
+  repo: Gesture-Recognition-System
+  img: /static/assets/img/landing/python.png
+  desc: Using C++ and OpenCV made a gesture recognition system that tracked the markers and identified gestures. Tested the system on a game developed by us in Unity
+Framework.
+
+- name: Signature Recognition System
+  i18n: cpython
+  gh_user: python
+  repo: Signature-Recognition-System
+  img: /static/assets/img/landing/python.png
+  desc: Using matlab trained a neural network to identify human signatures. The images were taken from students and scanned and processed before training the model.
+Acquired an accuracy of 87.8% on the test cases. 
